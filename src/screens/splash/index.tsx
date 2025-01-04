@@ -4,6 +4,8 @@ import styles from './styles';
 import {Images} from '../../assets';
 
 const Splash = () => {
+
+  
   useEffect(() => {
     const timer = setTimeout(() => {}, 3000);
 
