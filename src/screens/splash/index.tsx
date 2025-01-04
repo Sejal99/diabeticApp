@@ -6,9 +6,7 @@ const Splash = () =>
   useEffect(() => {
     const timer = setTimeout(() => {}, 3000);
     return () => clearTimeout(timer);
-  }, []);
-
-
+  }, [])
 
   return (
     <View style={styles.container}>
