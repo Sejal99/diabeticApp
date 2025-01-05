@@ -12,8 +12,6 @@ const Splash = () =>
   return (
     <View style={styles.container}>
       <ImageBackground
-
-        
         source={Images.splashImage}
         style={styles.imageBackground}>
         <Image source={require('../../assets/images/splash_alterate.gif')} style={styles.image} />
