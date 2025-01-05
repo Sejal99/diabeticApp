@@ -1,6 +1,5 @@
 import React, {useEffect} from 'react';
 import {View, Image, StyleSheet, ImageBackground, Text} from 'react-native';
-
 import styles from './styles';
 import {Images} from '../../assets';
 const Splash = () => 
