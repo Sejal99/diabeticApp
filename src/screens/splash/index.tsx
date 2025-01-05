@@ -6,7 +6,6 @@ import {Images} from '../../assets';
 const Splash = () => 
   useEffect(() => {
     const timer = setTimeout(() => {}, 3000);
-
     
     return () => clearTimeout(timer);
   }, [])
