@@ -9,7 +9,6 @@ const Splash = () =>
     
     return () => clearTimeout(timer);
   }, [])
-
   return (
     <View style={styles.container}>
       <ImageBackground
