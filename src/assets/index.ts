@@ -3,4 +3,6 @@ const Images = {
     splashImage: require('./images/splash.png')
 }
 
+
+
 export { Images }
