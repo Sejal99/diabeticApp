@@ -7,6 +7,8 @@ export default StyleSheet.create({
         alignItems: 'center',
         backgroundColor: '#ffffff', 
       },
+
+    
       image: {
         width: '100%',
         height: '100%',
